@@ -1,0 +1,601 @@
+{
+  "name": "语音包ID",
+  "display-name": "语音包名字",
+  "version": "版本号 例：0.0.1",
+  "avatar": "图标 例：avatar.jpg",
+  "avatar-dark": "Dark 模式图标 例：avatar-dark.jpg",
+  "author": "作者",
+  "gender": "性别 可取值：male|female",
+  "locale": "语言 例：zh/jp",
+  "description": "语音包说明",
+  "languages": [
+    "c",
+    "cpp",
+    "C++",
+    "javascript",
+    "typescript",
+    "rust",
+    "java",
+    "python",
+    "python3",
+    "golang"
+  ],
+  "contributes": [
+    {
+      "keywords": [
+        "main",
+        "class",
+        "template",
+        "main ",
+        "class ",
+        "template ",
+        " main ",
+        " class ",
+        " template "
+      ],
+      "voices": []
+    },
+    { "keywords": ["int", "int ", " int "], "voices": [] },
+    { "keywords": ["void", "void ", " void "], "voices": [] },
+    { "keywords": ["if", "if ", " if "], "voices": [] },
+    {
+      "keywords": ["for", "while", "for ", "while ", " for ", " while "],
+      "voices": []
+    },
+    { "keywords": ["char", "char ", " char "], "voices": [] },
+    {
+      "keywords": ["try", "catch", "try ", "catch ", " try ", " catch "],
+      "voices": []
+    },
+    {
+      "keywords": ["switch", "case", "switch ", "case ", " switch ", " case "],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "break",
+        "continue",
+        "break ",
+        "continue ",
+        " break ",
+        " continue "
+      ],
+      "voices": []
+    },
+    { "keywords": ["new", "new ", " new "], "voices": [] },
+    { "keywords": ["delete", "delete ", " delete "], "voices": [] },
+    { "keywords": ["public", "public ", " public "], "voices": [] },
+    {
+      "keywords": [
+        "private",
+        "protected",
+        "private ",
+        "protected ",
+        " private ",
+        " protected "
+      ],
+      "voices": []
+    },
+    { "keywords": ["return", "return ", " return "], "voices": [] },
+    {
+      "keywords": [
+        "fn",
+        "function",
+        "lambda",
+        "def",
+        "=>",
+        "impl",
+        "->",
+        "Theorem",
+        "Definition",
+        "Fixpoint",
+        "Inductive",
+        "Lemma",
+        "Proof",
+        "fn ",
+        "function ",
+        "lambda ",
+        "def ",
+        "=> ",
+        "impl ",
+        "-> ",
+        "Theorem ",
+        "Definition ",
+        "Fixpoint ",
+        "Inductive ",
+        "Lemma ",
+        "Proof ",
+        " fn ",
+        " function ",
+        " lambda ",
+        " def ",
+        " => ",
+        " impl ",
+        " -> ",
+        " Theorem ",
+        " Definition ",
+        " Fixpoint ",
+        " Inductive ",
+        " Lemma ",
+        " Proof "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "unwrap",
+        "throw",
+        "raise",
+        "Err",
+        "Exception",
+        "Abort",
+        "unwrap ",
+        "throw ",
+        "raise ",
+        "Err ",
+        "Exception ",
+        "Abort ",
+        " unwrap ",
+        " throw ",
+        " raise ",
+        " Err ",
+        " Exception ",
+        " Abort "
+      ],
+      "voices": []
+    },
+    { "keywords": ["Ok", "Ok ", " Ok "], "voices": [] },
+    { "keywords": ["loop", "loop ", " loop "], "voices": [] },
+    {
+      "keywords": [
+        "{",
+        "}",
+        "Admitted",
+        "intro",
+        "destruct",
+        "induction",
+        "{ ",
+        "} ",
+        "Admitted ",
+        "intro ",
+        "destruct ",
+        "induction ",
+        " { ",
+        " } ",
+        " Admitted ",
+        " intro ",
+        " destruct ",
+        " induction "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "import",
+        "await",
+        "use",
+        "import ",
+        "await ",
+        "use ",
+        " import ",
+        " await ",
+        " use "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "yield",
+        "exit",
+        "Qed",
+        "yield ",
+        "exit ",
+        "Qed ",
+        " yield ",
+        " exit ",
+        " Qed "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "match",
+        "else",
+        "elif",
+        "simpl",
+        "rewrite",
+        "apply",
+        "match ",
+        "else ",
+        "elif ",
+        "simpl ",
+        "rewrite ",
+        "apply ",
+        " match ",
+        " else ",
+        " elif ",
+        " simpl ",
+        " rewrite ",
+        " apply "
+      ],
+      "voices": []
+    },
+    { "keywords": ["func", "func ", " func "], "voices": [] },
+    {
+      "keywords": [
+        "except",
+        "err != nil",
+        "err!=nil",
+        "except ",
+        "err != nil ",
+        "err!=nil ",
+        " except ",
+        " err != nil ",
+        " err!=nil "
+      ],
+      "voices": []
+    },
+    { "keywords": ["include", "include ", " include "], "voices": [] },
+    {
+      "keywords": ["fuck", "shit", "fuck ", "shit ", " fuck ", " shit "],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "sleect",
+        "fliter",
+        "fitler",
+        "deatil",
+        "Deatil",
+        "deafult",
+        "Deafult",
+        "funtion",
+        "ture",
+        "frist",
+        "filed",
+        "Filed",
+        "lable",
+        "Lable",
+        "Shema",
+        "Schame",
+        "Resiable",
+        "Dasbhoard",
+        "submited",
+        "Submited",
+        "submiting",
+        "cancle",
+        "avaliable",
+        "delimeter",
+        "attibute",
+        "confrim",
+        "formated",
+        "Pannel",
+        "Soruce",
+        "Categorys",
+        "Propety",
+        "Feaure",
+        "sleect ",
+        "fliter ",
+        "fitler ",
+        "deatil ",
+        "Deatil ",
+        "deafult ",
+        "Deafult ",
+        "funtion ",
+        "ture ",
+        "frist ",
+        "filed ",
+        "Filed ",
+        "lable ",
+        "Lable ",
+        "Shema ",
+        "Schame ",
+        "Resiable ",
+        "Dasbhoard ",
+        "submited ",
+        "Submited ",
+        "submiting ",
+        "cancle ",
+        "avaliable ",
+        "delimeter ",
+        "attibute ",
+        "confrim ",
+        "formated ",
+        "Pannel ",
+        "Soruce ",
+        "Categorys ",
+        "Propety ",
+        "Feaure ",
+        " sleect ",
+        " fliter ",
+        " fitler ",
+        " deatil ",
+        " Deatil ",
+        " deafult ",
+        " Deafult ",
+        " funtion ",
+        " ture ",
+        " frist ",
+        " filed ",
+        " Filed ",
+        " lable ",
+        " Lable ",
+        " Shema ",
+        " Schame ",
+        " Resiable ",
+        " Dasbhoard ",
+        " submited ",
+        " Submited ",
+        " submiting ",
+        " cancle ",
+        " avaliable ",
+        " delimeter ",
+        " attibute ",
+        " confrim ",
+        " formated ",
+        " Pannel ",
+        " Soruce ",
+        " Categorys ",
+        " Propety ",
+        " Feaure "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "setTimeout(",
+        "setInterval(",
+        "setTimeout( ",
+        "setInterval( ",
+        " setTimeout( ",
+        " setInterval( "
+      ],
+      "voices": []
+    },
+    { "keywords": ["() =>", "() => ", " () => "], "voices": [] },
+    { "keywords": ["if (", "?", "if ( ", "? ", " if ( ", " ? "], "voices": [] },
+    { "keywords": ["else {", "else { ", " else { "], "voices": [] },
+    {
+      "keywords": [
+        "for (",
+        "while (",
+        "switch (",
+        ".map(",
+        "for ( ",
+        "while ( ",
+        "switch ( ",
+        ".map( ",
+        " for ( ",
+        " while ( ",
+        " switch ( ",
+        " .map( "
+      ],
+      "voices": []
+    },
+    { "keywords": ["async", "async ", " async "], "voices": [] },
+    {
+      "keywords": [
+        "try{",
+        "try {",
+        "try:",
+        "try{ ",
+        "try { ",
+        "try: ",
+        " try{ ",
+        " try { ",
+        " try: "
+      ],
+      "voices": []
+    },
+    { "keywords": ["except:", "except: ", " except: "], "voices": [] },
+    { "keywords": ["finally", "finally ", " finally "], "voices": [] },
+    {
+      "keywords": ["return null", "return null ", " return null "],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "this.",
+        "self.",
+        "extends",
+        "this. ",
+        "self. ",
+        "extends ",
+        " this. ",
+        " self. ",
+        " extends "
+      ],
+      "voices": []
+    },
+    { "keywords": ["like", "like ", " like "], "voices": [] },
+    { "keywords": ["kiss", "kiss ", " kiss "], "voices": [] },
+    { "keywords": ["opai", "opai ", " opai "], "voices": [] },
+    { "keywords": ["hello", "hello ", " hello "], "voices": [] },
+    { "keywords": ["no", "no ", " no "], "voices": [] },
+    { "keywords": ["v-html", "v-html ", " v-html "], "voices": [] },
+    {
+      "keywords": [
+        "const_cast",
+        "static_cast",
+        "reinterpret_cast",
+        "const_cast ",
+        "static_cast ",
+        "reinterpret_cast ",
+        " const_cast ",
+        " static_cast ",
+        " reinterpret_cast "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "volatile",
+        "inline",
+        "namespace",
+        "volatile ",
+        "inline ",
+        "namespace ",
+        " volatile ",
+        " inline ",
+        " namespace "
+      ],
+      "voices": []
+    },
+    {
+      "keywords": ["and", "not", "and ", "not ", " and ", " not "],
+      "voices": []
+    },
+    { "keywords": ["open", "open ", " open "], "voices": [] },
+    { "keywords": ["close", "close ", " close "], "voices": [] },
+    { "keywords": ["self", "self ", " self "], "voices": [] },
+    { "keywords": ["forEach", "forEach ", " forEach "], "voices": [] },
+    {
+      "keywords": [
+        "Promise",
+        "then",
+        "Promise ",
+        "then ",
+        " Promise ",
+        " then "
+      ],
+      "voices": []
+    },
+    { "keywords": ["export", "export ", " export "], "voices": [] },
+    { "keywords": ["if(", "if( ", " if( "], "voices": [] },
+    { "keywords": ["else{", "else{ ", " else{ "], "voices": [] },
+    {
+      "keywords": ["for(", "while(", "for( ", "while( ", " for( ", " while( "],
+      "voices": []
+    },
+    {
+      "keywords": [
+        "watch:",
+        "watch :",
+        "watch: ",
+        "watch : ",
+        " watch: ",
+        " watch : "
+      ],
+      "voices": []
+    },
+    { "keywords": ["v-model", "v-model ", " v-model "], "voices": [] },
+    {
+      "keywords": [
+        "console.log",
+        "console.error",
+        "console.log ",
+        "console.error ",
+        " console.log ",
+        " console.error "
+      ],
+      "voices": []
+    },
+    { "keywords": ["setTimeout", "setTimeout ", " setTimeout "], "voices": [] },
+    {
+      "keywords": ["setInterval", "setInterval ", " setInterval "],
+      "voices": []
+    },
+    { "keywords": ["true", "true ", " true "], "voices": [] },
+    { "keywords": ["false", "false ", " false "], "voices": [] },
+    { "keywords": ["flase", "flase ", " flase "], "voices": [] },
+    {
+      "keywords": [
+        "python this",
+        "Python this",
+        "The Zen of Python",
+        "the zen of python",
+        "python this ",
+        "Python this ",
+        "The Zen of Python ",
+        "the zen of python ",
+        " python this ",
+        " Python this ",
+        " The Zen of Python ",
+        " the zen of python "
+      ],
+      "voices": []
+    },
+    { "keywords": ["else:", "else: ", " else: "], "voices": [] },
+    { "keywords": ["finally:", "finally: ", " finally: "], "voices": [] },
+    { "keywords": ["print(", "print( ", " print( "], "voices": [] },
+    {
+      "keywords": ["del", "del(", "del ", "del( ", " del ", " del( "],
+      "voices": []
+    },
+    {
+      "keywords": ["pass", "pass", "pass ", "pass ", " pass ", " pass "],
+      "voices": []
+    },
+    { "keywords": ["True", "True ", " True "], "voices": [] },
+    { "keywords": ["False", "False ", " False "], "voices": [] },
+    { "keywords": ["return(", "return( ", " return( "], "voices": [] },
+    { "keywords": ["Ture", "Ture ", " Ture "], "voices": [] },
+    { "keywords": ["Flase", "Flase ", " Flase "], "voices": [] },
+    { "keywords": ["mian", "mian ", " mian "], "voices": [] },
+    { "keywords": ["set", "set ", " set "], "voices": [] },
+    {
+      "keywords": ["GetComponent", "GetComponent ", " GetComponent "],
+      "voices": []
+    },
+    { "keywords": ["this", "this ", " this "], "voices": [] },
+    {
+      "keywords": [
+        "==",
+        ">",
+        "<",
+        "+",
+        "-",
+        ":",
+        ".",
+        "=",
+        "== ",
+        "> ",
+        "< ",
+        "+ ",
+        "- ",
+        ": ",
+        ". ",
+        "= ",
+        " == ",
+        " > ",
+        " < ",
+        " + ",
+        " - ",
+        " : ",
+        " . ",
+        " = "
+      ],
+      "voices": []
+    },
+    { "keywords": ["||", "&&", "|| ", "&& ", " || ", " && "], "voices": [] },
+    {
+      "keywords": [
+        "position",
+        "Vector",
+        "position ",
+        "Vector ",
+        " position ",
+        " Vector "
+      ],
+      "voices": []
+    },
+    { "keywords": ["//", "// ", " // "], "voices": [] },
+    {
+      "keywords": [
+        "let",
+        "const",
+        "var",
+        "val",
+        "let ",
+        "const ",
+        "var ",
+        "val ",
+        " let ",
+        " const ",
+        " var ",
+        " val "
+      ],
+      "voices": []
+    }
+  ]
+}
