@@ -3,7 +3,7 @@
   "display-name": "赤井心语音包",
   "avatar": "avatars/avatar.jpg",
   "avatar-dark": "avatars/avatar-dark.jpg",
-  "version": "0.4.0",
+  "version": "0.3.0",
   "author": "kizx/醉后的星星",
   "gender": "female",
   "locale": "jp",
@@ -250,7 +250,7 @@
       "voices": ["warncharger01.mp3", "witchchasing01.mp3"]
     },
     {
-      "keywords": ["Ok", "Ok ", " Ok ", "ok"],
+      "keywords": ["Ok", "Ok ", " Ok "],
       "voices": [
         "dlc1_c6m3_finalechat01.mp3",
         "yes01.mp3",
@@ -496,10 +496,7 @@
         "incapacitatedinjury03.mp3"
       ]
     },
-    {
-      "keywords": ["except:", "except: ", " except: "],
-      "voices": ["callforrescue01.mp3"]
-    },
+    { "keywords": ["except:", "except: ", " except: "], "voices": [] },
     {
       "keywords": ["finally", "finally ", " finally "],
       "voices": [
@@ -523,15 +520,9 @@
       ],
       "voices": ["leadon01.mp3"]
     },
-    {
-      "keywords": ["like", "like ", " like "],
-      "voices": ["callforrescue01.mp3"]
-    },
-    { "keywords": ["kiss", "kiss ", " kiss "], "voices": ["warnsmoker01.mp3"] },
-    {
-      "keywords": ["opai", "opai ", " opai "],
-      "voices": ["heardhunter02.mp3"]
-    },
+    { "keywords": ["like", "like ", " like "], "voices": [] },
+    { "keywords": ["kiss", "kiss ", " kiss "], "voices": [] },
+    { "keywords": ["opai", "opai ", " opai "], "voices": [] },
     {
       "keywords": ["hello", "hello ", " hello "],
       "voices": [
@@ -572,7 +563,7 @@
         " static_cast ",
         " reinterpret_cast "
       ],
-      "voices": ["killconfirmation08.mp3"]
+      "voices": []
     },
     {
       "keywords": [
@@ -586,16 +577,16 @@
         " inline ",
         " namespace "
       ],
-      "voices": ["killconfirmation08.mp3"]
+      "voices": []
     },
     {
-      "keywords": ["open", "open ", " open "],
-      "voices": ["killconfirmation08.mp3"]
+      "keywords": ["and", "not", "and ", "not ", " and ", " not "],
+      "voices": []
     },
-    {
-      "keywords": ["close", "close ", " close "],
-      "voices": ["killconfirmation08.mp3"]
-    },
+    { "keywords": ["open", "open ", " open "], "voices": [] },
+    { "keywords": ["close", "close ", " close "], "voices": [] },
+    { "keywords": ["self", "self ", " self "], "voices": [] },
+    { "keywords": ["forEach", "forEach ", " forEach "], "voices": [] },
     {
       "keywords": [
         "Promise",
@@ -605,12 +596,9 @@
         " Promise ",
         " then "
       ],
-      "voices": ["painrelieftfirstaid01.mp3"]
+      "voices": []
     },
-    {
-      "keywords": ["export", "export ", " export "],
-      "voices": ["painrelieftfirstaid01.mp3"]
-    },
+    { "keywords": ["export", "export ", " export "], "voices": [] },
     {
       "keywords": [
         "watch:",
@@ -620,19 +608,16 @@
         " watch: ",
         " watch : "
       ],
-      "voices": ["look01.mp3"]
+      "voices": []
     },
-    {
-      "keywords": ["v-model", "v-model ", " v-model "],
-      "voices": ["heardjockey04.mp3"]
-    },
+    { "keywords": ["v-model", "v-model ", " v-model "], "voices": [] },
     {
       "keywords": ["setTimeout", "setTimeout ", " setTimeout "],
       "voices": ["nicejob01.mp3", "revivecriticalfriend02.mp3"]
     },
     {
       "keywords": ["setInterval", "setInterval ", " setInterval "],
-      "voices": ["heardjockey04.mp3"]
+      "voices": []
     },
     {
       "keywords": ["true", "true ", " true ", "True", "True ", " True "],
@@ -661,7 +646,7 @@
         " The Zen of Python ",
         " the zen of python "
       ],
-      "voices": ["youarewelcomegambler01.mp3"]
+      "voices": []
     },
 
     {
@@ -693,10 +678,42 @@
         "gettingrevived02.mp3"
       ]
     },
+    { "keywords": ["set", "set ", " set "], "voices": [] },
     {
       "keywords": ["GetComponent", "GetComponent ", " GetComponent "],
-      "voices": ["killconfirmation08.mp3"]
+      "voices": []
     },
+    { "keywords": ["this", "this ", " this "], "voices": [] },
+    {
+      "keywords": [
+        "==",
+        ">",
+        "<",
+        "+",
+        "-",
+        ":",
+        ".",
+        "=",
+        "== ",
+        "> ",
+        "< ",
+        "+ ",
+        "- ",
+        ": ",
+        ". ",
+        "= ",
+        " == ",
+        " > ",
+        " < ",
+        " + ",
+        " - ",
+        " : ",
+        " . ",
+        " = "
+      ],
+      "voices": []
+    },
+    { "keywords": ["||", "&&", "|| ", "&& ", " || ", " && "], "voices": [] },
     {
       "keywords": [
         "position",
@@ -706,7 +723,7 @@
         " position ",
         " Vector "
       ],
-      "voices": ["killconfirmation08.mp3"]
+      "voices": []
     },
     {
       "keywords": ["//", "// ", " // ", "#"],
@@ -717,6 +734,26 @@
         "spotfirstaid02.mp3",
         "spotgrenades01.mp3"
       ]
+    },
+    { "keywords": ["int", "int ", " int "], "voices": [] },
+    { "keywords": ["void", "void ", " void "], "voices": [] },
+    { "keywords": ["char", "char ", " char "], "voices": [] },
+    {
+      "keywords": [
+        "let",
+        "const",
+        "var",
+        "val",
+        "let ",
+        "const ",
+        "var ",
+        "val ",
+        " let ",
+        " const ",
+        " var ",
+        " val "
+      ],
+      "voices": []
     },
     {
       "keywords": ["$time_morning"],
