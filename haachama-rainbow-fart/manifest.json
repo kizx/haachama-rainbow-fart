@@ -3,7 +3,7 @@
   "display-name": "赤井心语音包",
   "avatar": "avatars/avatar.jpg",
   "avatar-dark": "avatars/avatar-dark.jpg",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "author": "kizx/醉后的星星",
   "gender": "female",
   "locale": "jp",
@@ -766,7 +766,8 @@
         "dlc1_c6m2_historictour01.mp3",
         "painrelieftpills01.mp3",
         "revivefriend01.mp3",
-        "survivormournellis01.mp3"
+        "survivormournellis01.mp3",
+        "daily/来自心心的请求❤️(Av50589603,P1).mp3"
       ]
     },
     {
@@ -783,11 +784,24 @@
         "dlc1_c6m2_constructionsite01.mp3",
         "revivefriendloud03.mp3",
         "suggesthealth01.mp3",
-        "daily/赤井はあと❤️欧尼酱❣️(Av37415342,P1).mp3"
+        "daily/赤井はあと❤️欧尼酱❣️(Av37415342,P1).mp3",
+        "daily/慰劳之舞(Av244123596,P1).mp3",
+        "daily/感谢的仪式(Av286558356,P1).mp3",
+        "daily/她可以互fo我们又不能互关的(Av499216395,P1).mp3",
+        "daily/这猫真讨厌(Av584168925,P1).mp3"
       ]
     },
     {
-      "keywords": ["sing", "Sing", "song", "Song", "hachama", "Hachama"],
+      "keywords": [
+        "sing",
+        "Sing",
+        "song",
+        "Song",
+        "hachama",
+        "Hachama",
+        "haachama",
+        "Haachama"
+      ],
       "voices": [
         "song/Dua Lipa - Don't Start Now ( cover by (Av710923378,P1).mp3",
         "song/ECHO-\u8d64\u4e95\u5fc3\u3010\u7ffb\u5531\u3011(Av54398739,P1).mp3",
@@ -815,7 +829,8 @@
         "daily/\u4f60\u5728\u770b\u4ec0\u4e48\u554a \u6076\u5fc3\u8c5a\u5b85(Av455247078,P1).mp3",
         "daily/\u5fc3\u5fc3\u7684\u6084\u6084\u8bdd(Av43264640,P1).mp3",
         "daily/\u5fc3\u9171\u7684\u65e5\u5e38(Av371090564,P1).mp3",
-        "daily/\u963f\u5b85\u75af\u6389\u7684\u539f\u56e0\u7adf\u7136\u662f\u2026\uff1f(Av413652489,P1).mp3"
+        "daily/\u963f\u5b85\u75af\u6389\u7684\u539f\u56e0\u7adf\u7136\u662f\u2026\uff1f(Av413652489,P1).mp3",
+        "daily/【赤井科学】做了番茄乌冬(Av626738516,P1).mp3"
       ]
     },
     {
